@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bg678games.github.io/bg678-game/sitemap.xml
